@@ -1,0 +1,16 @@
+.videoDetail {
+  margin-top: 15px;
+}
+.videoDetail iframe {
+  width: 100%;
+  height: 400px;
+}
+.videoDetail h3 {
+  margin: 15px 0;
+  font-size: 20px;
+  width: 80%;
+}
+.videoDetail p {
+  color: #444;
+  width: 80%;
+}

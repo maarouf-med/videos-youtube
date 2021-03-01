@@ -1,0 +1,20 @@
+.videoItem {
+  display: flex;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
+.videoItem .image {
+  width: calc(50% - 10px);
+  margin-right: 10px;
+}
+
+.videoItem .title {
+  width: 50%;
+}
+.videoItem .title h6 {
+  font-size: 14px;
+}
+.videoItem .image img {
+  width: 100%;
+}

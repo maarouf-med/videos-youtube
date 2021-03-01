@@ -1,0 +1,11 @@
+.searchBar {
+  padding-top: 15px;
+}
+
+.searchBar input:focus {
+  box-shadow: none;
+  border: 1px solid #6c757d;
+}
+.searchBar button:focus {
+  box-shadow: none;
+}
